@@ -1,3 +1,1 @@
-#Vikas basic File
-## testing
-*ond
+VIKAS SAMPLE FILE
